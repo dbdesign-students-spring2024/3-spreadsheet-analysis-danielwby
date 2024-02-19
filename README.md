@@ -1,4 +1,3 @@
-# Spreadsheet Analysis
-A little assignment to practice finding data, munging it, and analyzing it in a spreadsheet program.
-
-Replace the contents of this file with a report, as described in the [instructions](./instructions.md).
+    Data is collected from reports received online, mail, fax or by phone to 311 or NYC DOHMH Animal Bite Unit. Each record represents a single dog bite incident.   Information on breed, age, gender and Spayed or Neutered status have not been verified by DOHMH and is listed only as reported to DOHMH.
+[Click here to jump to the original dataset](https://data.cityofnewyork.us/Health /DOHMH-Dog-Bite-Data/rsgh-akpg/data_preview)
+Raw data file format: tsv

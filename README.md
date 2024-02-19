@@ -16,4 +16,11 @@ Here are the first 20 rows of the source dataset：
 |         10 | January 10 2018 | DOG       | MIXED                                | 3Y    | F        | False        | Brooklyn  |     11208 |
 |         11 | January 06 2018 | DOG       | nan                                  | nan   | U        | False        | Brooklyn  |     11215 |
 |         12 | January 07 2018 | DOG       | Yorkshire Terrier Crossbreed         | 7     | M        | True         | Brooklyn  |     11208 |
-|         13 | January 06 2018 | DOG       | G
+|         13 | January 06 2018 | DOG       | Great Dane                           | 6     | F        | True         | Brooklyn  |       nan |
+|         14 | January 01 2018 | DOG       | Pit Bull                             | nan   | U        | False        | Brooklyn  |     11220 |
+|         15 | January 09 2018 | DOG       | Labradoodle                          | 5     | F        | True         | Brooklyn  |     11238 |
+|         16 | January 01 2018 | DOG       | West High White Terrier              | nan   | M        | False        | Brooklyn  |     11207 |
+|         17 | January 14 2018 | DOG       | American Pit Bull Terrier/Pit Bull   | nan   | U        | False        | Brooklyn  |     11205 |
+|         18 | January 07 2018 | DOG       | nan                                  | nan   | U        | False        | Brooklyn  |     11209 |
+|         19 | January 13 2018 | DOG       | MIXED                                | 7     | M        | False        | Brooklyn  |     11237 |
+|         20 | January 10 2018 | DOG       | American Pit Bull Terrier/Pit Bull   | nan   | U        | False        | Brooklyn  |     11233 |

@@ -1,6 +1,9 @@
 Here is all the data designed for this mission：
+
 [the original data file](/data/DOHMH_Dog_Bite.tsv)
+
 [the munged data file](/data/clean_data.csv)
+
 [the spreadsheet file](/data/Data_analysis.csv)
 
 Data is collected from reports received online, mail, fax or by phone to 311 or NYC DOHMH Animal Bite Unit. Each record represents a single dog bite incident. Information on breed, age, gender and Spayed or Neutered status have not been verified by DOHMH and is listed only as reported to DOHMH.Raw data file format: tsv

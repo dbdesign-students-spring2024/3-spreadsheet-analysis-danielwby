@@ -1,4 +1,8 @@
-Here is all the data designed for this mission：
+Cory Zou and I worked as a team and collaborated on this assignment.
+His net ID is yz6350
+My net ID is bw2427
+
+## Here is all the data designed for this mission：
 
 [the original data file](/data/DOHMH_Dog_Bite.tsv)
 

@@ -50,9 +50,9 @@ Through the sorting of the data set, it was found that the years involved were a
 ### Based on the above statistical results,
 1. We sorted out the number of all bites in each year and the average number of bites in each year and made a bar chart and line chart to see the corresponding total number and changing trend. According to the statistical results, from 2015 to 2021, In 2015, 2017, 2018, and 2019, the number of bites was basically the same, maintaining around 3,500, and in 2016, it was slightly lower, around 3,200. However, in 2020 and 2021, the number of bites dropped even more, to 2,551 in 2020 and 2,931 in 2021, so it is possible that the government or related organizations have taken some measures to reduce the incidence of dog bites
 
-table1
-table2
-table3
+![pic1](/images/pic1.png)
+![pic2](/images/pic2.png)
+![pic3](/images/pic3.png)
 
 
 2. We sorted out the maximum number of bites, the minimum number of bites and their corresponding months in each year. According to the statistical results, June, July and August are the peak times of dog bites, and January and February are the lowest months of dog bites, which is more consistent with our daily habits.
